@@ -2,7 +2,7 @@
 
 <p>Using the Magento 2 Marketplace Seller Product Exchange plugin, Magento marketplace sellers can now exchange their products with one another.</p>
 
-<h2>Magento 2 Request for Leads Quote Features</h2>
+<h2>Magento 2 Marketplace Seller Product Exchange Features</h2>
 
 <ul>
 	<li>Seller to Seller conversation with mail.</li>
